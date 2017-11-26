@@ -1,0 +1,11 @@
+com/example/game/model/Address.class
+com/example/game/controller/SponsorController.class
+com/example/game/MinigameApplication.class
+com/example/game/model/Player.class
+com/example/game/service/PlayerService.class
+com/example/game/dao/SponsorRepository.class
+com/example/game/exception/ParamNotFoundException.class
+com/example/game/dao/PlayerRepository.class
+com/example/game/controller/PlayerController.class
+com/example/game/model/Sponsor.class
+com/example/game/service/SponsorService.class
